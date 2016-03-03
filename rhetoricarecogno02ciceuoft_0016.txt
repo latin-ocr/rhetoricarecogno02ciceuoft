@@ -1,0 +1,19 @@
+BRVTVS
+
+SIGLA
+
+F = codex Florentinus Magliabecchianus
+
+B == cod. ottobonianus 1592
+Ο -- cod. Ottobonianus 2057 0² = vetus corrector
+G = cod. Neapolitanus iv B 43
+H = cod. Neapolitanus iv B 36
+M = eod. Mutinensis vi D 6
+L = consensus codicum FBOGHM
+N = Venetus prior (Ellendt) Nannianus
+D = Parisinus 7704
+codd. dett. == codices inferioris notae, sive ornnes sive plures
+vulga = vulgata lectio
+
+ 
+

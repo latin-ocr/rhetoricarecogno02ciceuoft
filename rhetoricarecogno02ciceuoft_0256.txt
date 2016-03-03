@@ -1,0 +1,23 @@
+TOPICA
+
+SIGLA
+
+0 = cod. Ottobonianus 1406, saec. x
+(f) = cod. Vstebergensis, saec. xv (1432)
+(A) = cod. Vossianus 84, saec. x
+(B) = cod. Vossianus 86, saec. x
+
+m = cod. Marcianus 257, saec. x
+
+A = (A) (B) m
+
+(a)= cod. Einsiedlensis 324, saec. x'
+(b) = cod. Sangallensis 830, saec. x
+(c) = cod. Sangallensis 854, saec. xi
+(d)'= cod. Sangallensis 818, saec, xi
+
+V = cod. Vossianus 70, saec. x
+
+L = cod. Leidensis 90, saec. xi
+(β) = cod. Bernensis 2190, saec. xi
+
